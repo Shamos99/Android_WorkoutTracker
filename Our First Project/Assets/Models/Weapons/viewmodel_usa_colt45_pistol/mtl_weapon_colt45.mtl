@@ -1,8 +1,0 @@
-newmtl mtl_weapon_colt45
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Ks 0.50 0.50 0.50
-map_Kd ..\\_images\\colt45_c.png
-map_bump ..\\_images\\colt45_n.png
-map_Ks ..\\_images\\~colt45_s-rgb&colt45_g-l-11.png
